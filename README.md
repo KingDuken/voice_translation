@@ -12,4 +12,4 @@ Captures user's voice and translates it to another language.
 
 
 ### Usage:
-This is an easy code to capture a user's voice and translate it to particular language using Google's free API tools for language processing. Therefore, you will need internet connection to use `example_spanish.py`. Alternatively, you can use "CMU Sphinx" for offline usage to capture input but the translation still requires internet connection unless you create your own English-to-Spanish dictionary.
+This is an easy code to capture a user's voice and translate it to particular language using Google's free API tools for language processing. Therefore, you will need internet connection to use `example_spanish.py`. Alternatively, you can use "CMU Sphinx" for offline usage to capture input but the translation still requires internet connection unless you create your own English-to-Spanish diction.
